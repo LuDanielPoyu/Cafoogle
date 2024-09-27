@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\s9802\\OneDrive\\桌面\\jsoup-1.15.3.jar",
+        "c:\\Users\\s9802\\OneDrive\\桌面\\apache-tomcat-10.0.27/**/*.jar",
+        "c:\\college\\second_grade_1\\da_final\\lib\\javax.servlet-api-3.0.1.jar"
+    ]
+}
